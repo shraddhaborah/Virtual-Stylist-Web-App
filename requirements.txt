@@ -1,6 +1,8 @@
 Flask
+Flask-WTF
+WTForms
 pandas
 scikit-learn
 numpy
 matplotlib
-Flask-WTF
+gunicorn
