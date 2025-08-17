@@ -97,5 +97,4 @@ Update the machine learning model in `ml/fashion_trends.ipynb` and save the new 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Contributors
-- [Obada Kraishan](https://github.com/obadaKraishan)
+
